@@ -60,7 +60,7 @@
     "bs58": "^5.0.0",
     "decimal.js": "^10.4.3",
     "lodash": "^4.17.21",
-    "protobufjs": "^7.2.4",
+    "protobufjs": "^7.2.5",
     "yaml": "^2.2.1"
   },
   "devDependencies": {
